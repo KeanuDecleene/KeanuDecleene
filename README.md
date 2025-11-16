@@ -1,2 +1,9 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=compact)
+# Hi, I'm Keanu
 
+
+## GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/KeanuDecleene/KeanuDecleene/main/github-metrics.svg)
+
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=compact&theme=dark)
