@@ -22,13 +22,8 @@ jobs:
           template: classic
           filename: github-metrics.svg
           config_timezone: Pacific/Auckland
+          config_calendar: isometric
           output_action: commit                   
           committer_token: ${{ secrets.METRIC_TOKEN }}
           committer_branch: main
           committer_message: "Update GitHub Metrics"
-          extras_js: |
-            // Enable isometric commit calendar
-            window.METRICS_CONFIG = {
-              calendar: "isometric",
-              show_languages: false,  
-            }
