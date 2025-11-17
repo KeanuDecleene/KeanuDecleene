@@ -18,4 +18,4 @@ jobs:
           template: classic
           filename: github-metrics.svg
           config_timezone: Pacific/Auckland
-          commit: false
+          output_action: none
