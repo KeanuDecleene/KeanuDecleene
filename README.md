@@ -1,4 +1,10 @@
-![Metrics](https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=compact&theme=dark)
-
+<table>
+<tr>
+<td>
+<img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg" alt="Metrics" width="500"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=compact&theme=dark" alt="Top Langs" width="300"/>
+</td>
+</tr>
+</table>
