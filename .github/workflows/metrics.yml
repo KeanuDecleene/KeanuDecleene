@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,8 +13,9 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRIC_TOKEN }} 
+          token: ${{ secrets.METRIC_TOKEN }}
           user: KeanuDecleene
           template: classic
           filename: github-metrics.svg
           config_timezone: Pacific/Auckland
+          commit: false
