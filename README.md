@@ -4,8 +4,7 @@
 <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg" alt="Metrics" width="500"/>
 </td>
 <td>
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=pie&theme=dark&langs_count=9" alt="Top Langs" width="300](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&theme=dark
-)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuDecleene&layout=pie&theme=dark&langs_count=9" alt="Top Langs" width="300"/>
 </td>
 </tr>
 </table>
