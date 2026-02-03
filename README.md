@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg"
-           alt="GitHub Metrics"
-           width="400"/>
+      <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg" width="500"/>
+    </td>
+    <td>
+      <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-languages.svg" width="300"/>
     </td>
   </tr>
 </table>
