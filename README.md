@@ -3,9 +3,6 @@
     <td>
       <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg" width="500"/>
     </td>
-    <td>
-      <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-languages.svg" width="300"/>
-    </td>
   </tr>
 </table>
 
