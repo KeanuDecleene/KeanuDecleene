@@ -27,3 +27,9 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "Update GitHub Metrics"
+
+          plugin_languages: true
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: false
