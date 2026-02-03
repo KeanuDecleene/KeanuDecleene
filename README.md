@@ -3,7 +3,7 @@
     <td>
       <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg"
            alt="GitHub Metrics"
-           width="800"/>
+           width="400"/>
     </td>
   </tr>
 </table>
