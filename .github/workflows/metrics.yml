@@ -15,29 +15,15 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Generate language-only metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: KeanuDecleene
           template: classic
-          filename: github-languages.svg
-          base: ""
-          plugin_languages: true
-          plugin_languages_limit: 5
-          plugin_languages_details: percentage
+          filename: github-metrics.svg
+          config_timezone: Pacific/Auckland
           output_action: commit
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
-          committer_message: "Update GitHub Language Metrics"
-      - name: Generate language-only metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: KeanuDecleene
-          template: classic
-          filename: github-languages.svg
-          plugin_languages: true
-          plugin_languages_limit: 5
-          plugin_languages_details: percentage
-          output_action: commit
+          committer_message: "Update GitHub Metrics"
