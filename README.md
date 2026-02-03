@@ -4,7 +4,6 @@
 <img src="https://github.com/KeanuDecleene/KeanuDecleene/blob/main/github-metrics.svg" alt="Metrics" width="500"/>
 </td>
 <td>
-</td>
 </tr>
 </table>
   <h3 align="left">Visits:</h3>
